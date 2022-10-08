@@ -7,6 +7,7 @@
 
 
 #### More details -> https://urbansounddataset.weebly.com/urbansound8k.html
+#### You can access spectrograms from Google Drive -> https://drive.google.com/drive/folders/1xey3vAVNDjWxnSfhuUsf_5dGANZWmCog?usp=sharing
 
 
 #### Prepared by -> Generation Y-Z team
